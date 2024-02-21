@@ -9,9 +9,12 @@
 
 ### My servers:
 
-- [Gallery Solutions](https://discord.gg/8eTTabz7TW) this is my server where I post all my free stuff and there is some paid there too.
+- Inertia 🚀
+https://dsc.gg/inertiacheats
+- If that link doesnt work: 
+https://discord.gg/ywMdJFAnmw
 
-- [INACTIVE NOW - Slatt's Solutions](https://discord.gg/rxBtbEWp3K) this server is inactive much like lots of other servers I have.
+Gallery Solutions is dead don't join it I wont post
 
 What can I say? I like starting fresh.
 
