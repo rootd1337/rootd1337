@@ -9,22 +9,12 @@
 
 ### My servers:
 
-- Inertia 🚀
-https://dsc.gg/inertiacheats
-- If that link doesnt work: 
-https://discord.gg/ywMdJFAnmw
-
-Gallery Solutions is dead don't join it I wont post
-
-What can I say? I like starting fresh.
+- Frosty (defunct)
+- SPS (selling pasted shit)
 
 ### Working on/With:
 
-- C++ Fortnite cheat development (pasting🤑🤑🤑)
-
-- Spoofer Development
-
-- Building a community (join gallery you can get a community channel to post stuff)
+- nothing, i quit
 
 ### I want to learn:
 
