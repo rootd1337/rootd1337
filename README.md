@@ -9,8 +9,7 @@
 
 ### My servers:
 
-- Frosty (defunct)
-- SPS (selling pasted shit)
+All my servers are now inactive
 
 ### Working on/With:
 
@@ -18,7 +17,7 @@
 
 ### I want to learn:
 
-- KERNEL (drivers)
+- App Development
 
 <h3 align="center">Social Media</h3>
 <p align="center">
