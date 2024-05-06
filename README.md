@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">I am root</h1>
+<h1 align="center">I'm root</h1>
 <h3 align="center">C++ Desktop Developer</h3>
 
 <h3 align="center">Social Media</h3>
