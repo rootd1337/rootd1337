@@ -5,7 +5,7 @@
 
 <h3 align="center">Social Media</h3>
 <p align="center">
-<a href="" target="blank">https://www.youtube.com/@jjrichaf<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p-denny" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@jjrichaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p-denny" height="30" width="40" /></a>
 </p>
 
 
